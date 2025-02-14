@@ -42,7 +42,7 @@ class ResultGame(Turtle):
     def write_winning_paddle_name(self,winng_paddle,your_paddle):
         self.goto(0,0)
         if winng_paddle == your_paddle:
-            text = f'YOU WIN!\nThe winning paddle was "{winng_paddle}"'
+            text = f'YOU WIN!\nThe winning turtle was "{winng_paddle}"'
         else:
             text = f'YOU LOST!\nYou chose "{your_paddle}" and the winner was "{winng_paddle}"'
         self.write(text,move=False,font=FONT_STYLE,align=ALIGN)
