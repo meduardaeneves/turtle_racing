@@ -3,7 +3,7 @@
 Portfolio Game page link: [Acess Portfolio](https://meduardaeneves.github.io/portfolio/games/turtle_racing/)
 
 <p align="center">
-  <img src="files/snake_game_playing.png" width="300">
+  <img src="files/turtle_racing_playing.png" width="300">
 </p>
 
 This is a turtle racing app. Your goal is to choose a colour of turtle and root for it to win. 
